@@ -1,6 +1,6 @@
 # likki-demo
 This is my first git repository.
 <br>
-Author-likita
+Author-likita goenka
 <br>
 hello
